@@ -31,3 +31,14 @@ We suggest that you begin by typing:
 
 Happy hacking!
 ```
+
+## storybook
+
+still in /my-app
+
+1. yarn sb init
+2. yarn add prop-types
+3. yarn add @types/react typescript
+4. yarn add webpack-hot-middleware
+5. /my-app yarn start
+6. yarn storybook
